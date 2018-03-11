@@ -18,7 +18,6 @@ config_schema:
 
 libs:
   - origin: https://github.com/mongoose-os-libs/i2c
-  - origin: https://github.com/mongoose-os-libs/spi
   
 build_vars:
 
